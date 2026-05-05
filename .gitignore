@@ -1,0 +1,21 @@
+# IDE dosyaları
+.idea/
+*.iml
+
+# Derlenmiş Java dosyaları
+target/
+*.class
+
+# Araçlar ve devasa binary dosyalar
+araclar/ffmpeg.exe
+araclar/yt-dlp.exe
+araclar/*.xml
+
+# Test ve Medya dosyaları
+indirilen_videolar/
+uretilen_klipler/
+*.mp4
+*.mp3
+*.srt
+*.ass
+*.vtt
